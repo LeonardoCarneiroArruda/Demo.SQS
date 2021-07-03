@@ -1,4 +1,4 @@
-# Estudos Sobre AWS SQS C#
+# Estudos Sobre AWS SQS 
 
 Este projeto foi feito com o intuito de servir como base para implementação de Simple Queue Service da AWS.
 Construído após estudos de artigos do assunto. 
